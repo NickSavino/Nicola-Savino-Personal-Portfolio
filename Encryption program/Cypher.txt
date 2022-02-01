@@ -1,0 +1,13 @@
+valid: bcdefghijklmnopqrstuvwxyza
+
+invalid: bcdefghijklmnopqrstuvwxyzb
+
+text: welcometothecourse
+encrpyted text: xfmdpnfupuifdpvstf
+
+list = [bcdefahujklhrtohjr0ihw]
+bcdefahijklanopqrstuvwxyza
+
+qwerty2iop3sdfg5jklzx6vbnm
+
+bcDeFghijKLmnOPqrstuvwxyzabcdefghijklmnopqrstuvwxyza
